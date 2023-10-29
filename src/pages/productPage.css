@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: lightgray;
+  }
+
+  .projectCardsWrap{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 9%;
+    transition: 0.9s;
+    gap: 4px;
+  }
